@@ -1,4 +1,4 @@
-<h1 align="center"><b> THE X-sanuwa Public Bot  </b></h1>
+<h1 align="center"><b> THE S-MAX Public Bot  </b></h1>
 
 ![logo](https://weraveyou.com/wp-content/uploads/2021/02/awwryarticle.jpg)
 
@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    Project of X-sanuwa - Makes it easy and fun to use Whatsapp. Also  Sinhala userbot for Whatsapp.
+    Project of S-MAX - Makes it easy and fun to use Whatsapp. Also  Sinhala userbot for Whatsapp.
     <br>
         <a href="http://t.me/sanuwas">Telegram Channel</a> |
         <a href="https://t.me/sanuwa1">Telegram Group</a> |
@@ -17,7 +17,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@Isuru200555/Drop-ml)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xsanuwa/X-sanuwa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xsanuwa/S-MAX)
 
 
 
